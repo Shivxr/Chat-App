@@ -1,5 +1,6 @@
 # Chat-App
-Chat Web-Application using Web Sockets and Express JS.f
+Chat Web-Application using Web Sockets and Express JS.
+
 Establish Node in your system to implement this chat-app.
 
 The commands to run this code are:
