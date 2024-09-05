@@ -15,6 +15,6 @@ The commands to run this code are:
 
 # npm init -y
 # npm install express sockets.io
-after this u can now the chat-app in your localhost,finally:
+after this u can now run the chat-app in your localhost,finally:
 # node server.js
 This will run the server and the chat-app can be used by accessing the localhost!
